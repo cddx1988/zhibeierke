@@ -1,0 +1,134 @@
+.banner{
+	height: 275px;
+}
+.banner img{
+	width: 100%;
+}
+.top_title{
+	font-size: 0.4rem;
+	font-weight: bold;
+	line-height: 1.1rem;
+	padding: 0.15rem 0 0 0.15rem;
+	border: 0.01rem solid #ccc;
+}
+.contener{
+	margin: 0.2rem 0 0 0.2rem;
+}
+.item_title{
+	width: 1.57rem;
+	font-size: 0.36rem;
+	line-height: 0.6rem;
+	background-color: #00b1bb;
+	color: #fff;
+	text-align: center;
+}
+.item_contener{
+	width: 7.3rem;
+	font-size: 0.28rem;
+	line-height: 0.6rem;
+}
+.item_contener span{
+	color: #00b1bb;
+}
+#adress{
+	font-weight:bold;
+}
+#map img{
+	width: 100%;
+}
+.work_time{
+	font-size: 0.28rem;
+	margin: 0.2rem;
+}
+.light{
+	color: #00b1bb;
+}
+.doctor{
+	list-style: none;
+}
+.doctor li{
+	margin: 0.37rem 0 0 0.13rem;
+	overflow: hidden;
+}
+.doc_photo img{
+	width: 1.4rem;
+	height: 1.4rem;
+}
+.doc_photo{
+	float: left;
+}
+.doc_detail{
+	width: 3.7rem;
+	float: left;
+	margin-left: 0.52rem;
+	font-size: 0.2326rem;
+}
+.doc_detail span{
+	font-size: 0.28rem;
+	display: inline-block;
+	margin-bottom: 0.15rem;
+}
+
+.sick li{
+	width: 1.02rem;
+	height: 0.28rem;
+	background-color: #f0f0f0;
+	font-size: 0.2326rem;
+	text-align: center;
+	line-height: 0.28rem;
+	float: left;
+	margin-top: 0.12rem;
+}
+/*会员套餐*/
+.vip img{
+	width: 4.2rem;
+	height: 0.54rem;
+}
+.vip p{
+	font-size: 0.28rem;
+	width: 7.1rem;
+	line-height: 0.6rem;
+}
+/*常见问题*/
+.question p{
+	font-size: 0.28rem;
+	width: 7.1rem;
+	line-height: 0.6rem;
+	margin-bottom: 0.6rem;
+}
+
+.yuyue{
+	width: 100%;
+	height: 0.9rem;
+	background-color: #00b1bb;
+	color: #fff;
+	font-size: 0.48rem;
+	text-align: center;
+	line-height: 0.9rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*分割线*/
+.br1{
+	width: 100%;
+	height: 0.04rem;
+	background-color: #dcdcdc;
+}
+.br{
+	width: 100%;
+	height: 0.16rem;
+	background-color: #dcdcdc;
+}
